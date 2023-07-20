@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+bin
+.env
+coverage
+coverage.json
+.vscode
+.ds_store
+address.json
+.openzeppelin
+address.json
+build/
